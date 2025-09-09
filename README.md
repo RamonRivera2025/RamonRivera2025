@@ -11,15 +11,15 @@ In my current role, I’ve built experience in data entry, back office operation
 
 ### 🌱 Always Learning  
 - 📊 Strengthening my data visualization with Power BI & Tableau 
-- 🗄️ Practicing SQL for database management and queries  
-- 📑 Improving automation and reporting in Excel
-- 🦅 Developing a sharp eye for detail, accuracy, and efficiency  
+- 🗄️ Practicing SQL for database management & queries  
+- 📑 Improving automation & reporting in Excel
+- 🦅 Developing a sharp eye for detail, accuracy, & efficiency  
 
 ### 🌟 Fun Facts  
-- I spend my weekends with wrenches and my weekdays with Excel—turning both engines and data into well-oiled machines 🔧📊
+- I spend my weekends with wrenches & my weekdays with Excel, turning both engines & data into well-oiled machines 🔧📊
 - I once built a back office system from scratch with no prior experience—learning by doing is my superpower
-- On Sundays, you can usually find me watching the Philadelphia Eagles 🦅
-- You can usually catch me with my headphones on, listening to world news and staying curious 🎧🌍
+- On Sundays, you can catch me watching the Philadelphia Eagles 🦅
+- You can usually catch me with my headphones on, listening to world news & staying curious 🎧🌍
 
 
 ### 🤝 Open to Opportunities  
