@@ -1,10 +1,21 @@
-## Hi there 👋
-Detail-oriented professional with experience in data entry, back office operations, and client/vendor management. Skilled in Excel, SQL, Power BI, and Tableau, I specialize in transforming raw data into accurate reports and actionable insights.  I am seeking remote opportunities where I can apply my expertise to improve business efficiency.
+## 👋 Hey! This is Ramon Rivera
+### 🎓 Learning → 💼 Applying → 🚀 Growing  
+
+I’m passionate about taking the skills I've learned in school and applying them in real-world settings.  
+In my current role, I’ve built experience in data entry, back office operations, and reporting, while incorporating tools like **Excel & SQL to manage and analyze information.  At the same time, I’m continuing to build and expand my skill set.  I am sharpening my technical knowledge, improving workflows, and preparing for future opportunities in a remote data entry role and/or a remote business analytics role.  
+
+### 🌱 Always Learning  
+- 📊 Strengthening my data visualization with Power BI & Tableau 
+- 🗄️ Practicing SQL for database management and queries  
+- 📑 Improving automation and reporting in Excel
+- 🦅 Developing a sharp eye for detail, accuracy, and efficiency  
 
 ### 🌟 Fun Facts  
-- I once built a back office system from scratch with no prior experience—learning by doing is my superpower.  
-- I love organizing messy data into something clear and useful (bonus points if I can color-code it).  
-- Coffee and spreadsheets are my perfect pair.  
+- I spend my weekends with wrenches and my weekdays with Excel—turning both engines and data into well-oiled machines 🔧📊
+- I once built a back office system from scratch with no prior experience—learning by doing is my superpower
+- On Sundays, you can usually find me watching the Philadelphia Eagles 🦅
+- You can usually catch me with my headphones on, listening to world news and staying curious 🎧🌍
+
 
 ### 🤝 Open to Opportunities  
 I’m interested in collaborating on **outsourcing projects** where I can apply my data entry, reporting, and analytics skills to help businesses save time and operate more efficiently.  
