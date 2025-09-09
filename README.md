@@ -1,6 +1,6 @@
 ## 👋 Hey! This is Ramon Rivera
-✉️(mailto:rrivera2025r@gmail.com) 
-🔗(https://www.linkedin.com/in/ramon--rivera)
+✉️ mailto:rrivera2025r@gmail.com
+🔗 https://www.linkedin.com/in/ramon--rivera
 ### 🎓 Learning → 💼 Applying → 🚀 Growing  
 
 I’m passionate about taking the skills I've learned in school and applying them in real-world settings.  
