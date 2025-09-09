@@ -2,7 +2,7 @@
 ✉️ [Email](rrivera2025r@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/ramon--rivera/)
 🐙 [GitHub](https://github.com/RamonRivera2025)
-📝 [View My Resume](https://github.com/RamonRivera2025/RamonRivera2025/blob/main/Ramon%20Rivera-%20Resume)
+📝 [View My Resume](https://docs.google.com/document/d/1ssm5tcMj_kZ3mstZ_a0rv4xiDXkW4KjPqZns-LxZGj4/edit?usp=sharing)
 
 
 ### 🎓 Learning → 💼 Applying → 🚀 Growing  
