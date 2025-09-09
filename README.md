@@ -1,7 +1,6 @@
 ## 👋 Hey! This is Ramon Rivera
 ✉️ mailto:rrivera2025r@gmail.com
-🔗 [LinkedIn(https://www.linkedin.com/in/ramon--rivera/)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/ramon--rivera/)
 📝 [View My Resume](https://github.com/RamonRivera2025/RamonRivera2025/blob/main/Ramon%20Rivera-%20Resume%20Project.pdf)
 
 
